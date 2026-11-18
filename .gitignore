@@ -1,0 +1,7 @@
+.env
+*.env
+__pycache__/
+Dataset/
+qdrant/
+*.snapshot
+revisi_r1/results/**/answers.jsonl

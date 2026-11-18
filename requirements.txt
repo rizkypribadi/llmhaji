@@ -1,0 +1,45 @@
+langchain
+langchain-core
+langchain-community
+#langchain-google-genai
+langchain-openai
+langchain-qdrant
+langchain-text-splitters
+langchain-huggingface
+#langchain-classic
+#langchain-docling
+
+# Opsional: dibutuhkan untuk strategi chunking "semantic"
+# pip install langchain-experimental
+langchain-experimental
+
+qdrant-client
+
+pypdf
+# Opsional: dependency ekstraksi/OCR tambahan. Dapat memicu build native seperti llvmlite.
+# Install manual hanya bila workflow OCR/agentic chunking memang dipakai.
+# unstructured
+markdown
+pymupdf
+# easyocr
+
+# Embedding & Reranking Models
+sentence-transformers
+huggingface-hub
+transformers<4.55  # Hindari guard terbaru yang mensyaratkan torch>=2.6 saat load model tertentu
+torch  # Required for sentence-transformers
+
+tqdm
+#google-genai
+fastapi
+uvicorn
+python-multipart
+openai
+
+# Evaluation
+ragas
+datasets
+
+# Hallucination Mitigation Dependencies
+numpy<2  # PyTorch/RAGAS stack saat ini masih memakai modul yang dibangun untuk NumPy 1.x
+scikit-learn  # Optional: for additional similarity metrics

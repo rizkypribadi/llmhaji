@@ -1,0 +1,656 @@
+[
+  {
+    "soal": "20",
+    "entitas": "Jumrah Aqabah",
+    "varian": [
+      "jumrah aqabah",
+      "jamrah aqabah",
+      "jumratul aqabah",
+      "jamratul aqabah",
+      "jumrotul aqobah"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 73,
+    "n_kemunculan_chunk": 99,
+    "chunk_ids": [
+      "01263905-28fc-44c7-9176-0bff452e06b5",
+      "02963474-468f-40d7-a673-4506da105e9a",
+      "06e6bbbe-039f-42e9-ae30-83a0e788aa62",
+      "08c9da25-7ff3-4667-8f56-c57de280ff7e",
+      "0ff7005c-7e42-4983-a420-71d49f5f8d8a",
+      "108428c1-4376-492f-9b20-72467a462f73",
+      "13237d29-572e-4db3-ae77-1d0ecc6915bc",
+      "18dace04-8ce5-4278-b09e-2a75d2c10b8f",
+      "2b0154ec-cbf4-42a9-a60e-d360c47fd5fd",
+      "2b366d7a-b724-435e-a1d8-295d11ae0c7b",
+      "2c4a2c02-acdf-4f4f-bf8b-c1560cdc8074",
+      "300d0ce4-5d90-4c2e-b72f-43c4ff52d5ae",
+      "324abdf9-f314-4c7f-a2b6-9ba4488b6614",
+      "3298c6f2-6d0d-4b71-a193-6a689a0afd19",
+      "3b79e60f-a854-43a3-a74e-062750e827f9"
+    ],
+    "sumber_chunk": [
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf",
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md",
+      "wawancara pakar.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf": 5,
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md": 81,
+      "wawancara pakar.md": 5
+    }
+  },
+  {
+    "soal": "21",
+    "entitas": "Umar bin Khattab",
+    "varian": [
+      "umar bin khattab",
+      "umar ibn khattab",
+      "umar bin al khattab",
+      "umar ibnul khattab"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 60,
+    "n_kemunculan_chunk": 65,
+    "chunk_ids": [
+      "01d8f513-dac0-4c83-aba0-ff1ef49c9b68",
+      "03c2b286-6c18-49f6-8085-ab4efb9d7482",
+      "05cc2f4c-d770-41d5-b487-9fc95a805b98",
+      "096607e5-09ea-4be1-b7ba-fdbeccb60090",
+      "0975ce67-da01-48b7-9e6c-df09f6829d6e",
+      "0c5829f9-b9a8-4cd6-af34-b715ea8abc9e",
+      "0d45f3a6-3679-4fab-8d4e-935510d85e45",
+      "0f2fb79c-088b-425b-9d0f-ef921574b5c0",
+      "10f3c739-b589-4b98-a7ce-08b6481e6c85",
+      "1c2bd47f-959f-4516-8fcc-10556f10122a",
+      "1e08fcb7-9709-40d0-9d1b-dce7d52b28f8",
+      "1eacf5a5-60ff-48fe-8499-8c7843e8dea4",
+      "200a52ee-b105-4ed2-9030-be899c493320",
+      "223100c6-6a78-4ff2-9705-0611f1248b1f",
+      "2280ede4-fd36-4eb7-a474-f8f46d6dd366"
+    ],
+    "sumber_chunk": [
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf",
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md",
+      "04 Panduan Praktis Haji, Umrah, dan Ziarah Berdasarkan Al-Qur_an dan Sunnah.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf": 26,
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md": 30,
+      "04 Panduan Praktis Haji, Umrah, dan Ziarah Berdasarkan Al-Qur_an dan Sunnah.md": 2
+    }
+  },
+  {
+    "soal": "21",
+    "entitas": "Masjidil Haram",
+    "varian": [
+      "masjidil haram",
+      "masjid al haram",
+      "masjidilharam",
+      "masjid haram"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 96,
+    "n_kemunculan_chunk": 144,
+    "chunk_ids": [
+      "0262bc2e-e537-4c08-a746-94574c41d18e",
+      "0631fbb9-32da-4440-8de9-623165c4c695",
+      "07197ead-8a81-4051-adfa-e16ce92dc749",
+      "09b28b1b-d9ce-42bf-bac9-5218dd9de1d6",
+      "0b8fae3b-503b-4655-9e3c-86b7149820b8",
+      "0ea85d77-7fd0-44f3-9f64-78bc2c5205b9",
+      "11cd805e-8b06-4ada-8c8e-7d082291fe69",
+      "150003ac-b4fd-4842-a590-359146823dfa",
+      "195a7cb3-e1ae-408a-a2b9-b79184baa468",
+      "1a60ec0b-3cdd-4fcc-96b8-bfe72e9ecf32",
+      "1c2bd47f-959f-4516-8fcc-10556f10122a",
+      "1cd770df-9fd2-4455-8071-1d8cca0d38e6",
+      "1d5f1bfa-d6b7-4bb8-86a0-1c8cdcf5c33b",
+      "1d6b319f-d77a-433d-8be1-5eaf3efbe8d4",
+      "1f4d3fde-62f4-4a5f-8e95-144bfd1f1590"
+    ],
+    "sumber_chunk": [
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf",
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md",
+      "04 Panduan Praktis Haji, Umrah, dan Ziarah Berdasarkan Al-Qur_an dan Sunnah.md",
+      "05 Manasik Haji dan Umrah - Terjemah Manhajus Salikin.pdf",
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md",
+      "wawancara pakar.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf": 10,
+      "05 Manasik Haji dan Umrah - Terjemah Manhajus Salikin.pdf": 1,
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md": 33,
+      "04 Panduan Praktis Haji, Umrah, dan Ziarah Berdasarkan Al-Qur_an dan Sunnah.md": 15,
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md": 61,
+      "wawancara pakar.md": 12
+    }
+  },
+  {
+    "soal": "24,25,30",
+    "entitas": "Muzakarah Perhajian",
+    "varian": [
+      "muzakarah perhajian",
+      "mudzakarah perhajian",
+      "muzakarah haji",
+      "mudzakarah haji"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 8,
+    "n_kemunculan_chunk": 8,
+    "chunk_ids": [
+      "0fa3da90-c00a-4a5f-aadd-6e831a4ac8d8",
+      "1a60ec0b-3cdd-4fcc-96b8-bfe72e9ecf32",
+      "23ce3e26-7d9c-4f36-8661-8a28d5afe60f",
+      "6c54fd39-8c7d-4bd4-995b-2b066b200071",
+      "701ed9bc-7af6-423a-b6a6-e6cfe90ae653",
+      "88f33b92-4c78-4e4b-957f-0911f7f75f6b",
+      "a2bc2135-799f-4972-99e1-5ba3439b23bb",
+      "d8008c54-31ae-432b-9724-78729a6d0bc0"
+    ],
+    "sumber_chunk": [
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md",
+      "wawancara pakar.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md": 6,
+      "wawancara pakar.md": 2
+    }
+  },
+  {
+    "soal": "24,25,30",
+    "entitas": "murur (konteks)",
+    "varian": [
+      "murur"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 5,
+    "n_kemunculan_chunk": 10,
+    "chunk_ids": [
+      "0fa3da90-c00a-4a5f-aadd-6e831a4ac8d8",
+      "7b59383b-b4aa-408e-a6a0-08a8f989c5ae",
+      "88f33b92-4c78-4e4b-957f-0911f7f75f6b",
+      "dcf6a83b-73c4-43ef-b6e1-cbec90e35012",
+      "ecf4268f-5142-44dd-a82c-1ca0cfe3cc31"
+    ],
+    "sumber_chunk": [
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md",
+      "wawancara pakar.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md": 6,
+      "wawancara pakar.md": 4
+    }
+  },
+  {
+    "soal": "24,25,30",
+    "entitas": "tanazul (konteks)",
+    "varian": [
+      "tanazul"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 8,
+    "n_kemunculan_chunk": 14,
+    "chunk_ids": [
+      "279c125b-7d71-4add-96d9-03e0d82fa7ed",
+      "4c5be51d-d2d5-4265-b4b0-ffcc3b729181",
+      "62d556c9-6c5d-47a6-9fb9-05e04300e9b5",
+      "67a4c2bb-a5d7-4fca-9177-67d72673e0c7",
+      "69f9ae81-d5a3-49cc-a151-196c74fa34cc",
+      "8cb7f3ba-01ac-41a6-9d85-f5b428d5dc8b",
+      "bcc57944-4e1b-453a-8e5e-83c88efb9bf7",
+      "c5f3861b-b1dd-4703-8cf1-134e78a7ba24"
+    ],
+    "sumber_chunk": [
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md",
+      "wawancara pakar.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md": 11,
+      "wawancara pakar.md": 3
+    }
+  },
+  {
+    "soal": "31",
+    "entitas": "Daker Makkah",
+    "varian": [
+      "daker makkah",
+      "daker mekkah",
+      "daerah kerja makkah",
+      "daerah kerja mekkah"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 1,
+    "n_kemunculan_chunk": 1,
+    "chunk_ids": [
+      "d7e3e88c-5595-40dc-9133-82973e19209e"
+    ],
+    "sumber_chunk": [
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md": 1
+    }
+  },
+  {
+    "soal": "34",
+    "entitas": "Al Juhfah",
+    "varian": [
+      "juhfah"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 22,
+    "n_kemunculan_chunk": 27,
+    "chunk_ids": [
+      "0424b4ab-411f-42fc-aeac-3e666861d4a9",
+      "115e2c4c-1568-445c-a19e-1ee1818402bd",
+      "24a28d38-8ad9-4cd3-a2b9-e24a7f9f0f48",
+      "44799f3d-e399-4eef-9531-40c48efb5d91",
+      "67d30426-1d31-4388-9d16-ff667cb021ca",
+      "6efab16f-2e18-4702-84d2-6d3f7743b8af",
+      "7d52280f-538a-465e-bb78-a475a07fb47e",
+      "8d4631a0-626d-408f-8d6f-32e6179eb1a6",
+      "98fdd5ba-e02d-4f1a-8770-e24aab67de55",
+      "a3bf31fb-89c1-4fe1-b999-b8c745d6a7d0",
+      "a8db519d-2aa3-4fc7-a404-4c47e4a1c5ed",
+      "afdd7ff1-6b2a-43ee-83e4-13ee781ab236",
+      "b68f41d5-be28-4860-bdc4-d59778a283de",
+      "c74c4751-2e7c-42d7-92e9-8bccc92bee10",
+      "c792f1f8-a3e3-4d43-bd3c-6778996cbfec"
+    ],
+    "sumber_chunk": [
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf",
+      "02 Panduan Lengkap Haji & Umroh Syaikh Imam Nawawi.md",
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md",
+      "04 Panduan Praktis Haji, Umrah, dan Ziarah Berdasarkan Al-Qur_an dan Sunnah.md",
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md",
+      "wawancara pakar.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf": 10,
+      "02 Panduan Lengkap Haji & Umroh Syaikh Imam Nawawi.md": 3,
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md": 5,
+      "04 Panduan Praktis Haji, Umrah, dan Ziarah Berdasarkan Al-Qur_an dan Sunnah.md": 2,
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md": 1,
+      "wawancara pakar.md": 2
+    }
+  },
+  {
+    "soal": "39",
+    "entitas": "Imam Al Bukhari",
+    "varian": [
+      "imam bukhari",
+      "imam al bukhari",
+      "al bukhari"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 218,
+    "n_kemunculan_chunk": 269,
+    "chunk_ids": [
+      "0027e3f7-4df9-4325-a071-2b09757b91d0",
+      "00a0ffe0-512d-4a6d-bd9f-fa8731f2a7b2",
+      "0143e5f8-c388-4fac-bc2e-24e8c0a67134",
+      "01ddb1fc-6774-41d0-b891-0c39cf351772",
+      "021c473a-8d37-4cc4-bd9d-851d1bb07020",
+      "0392508b-22e6-4fd0-b96a-a7d79f22e9c8",
+      "0424b4ab-411f-42fc-aeac-3e666861d4a9",
+      "06a56d30-f1ef-415f-8fb0-632882a82993",
+      "086b27a1-212c-44f5-97b1-78f04134d793",
+      "0a68a63f-0561-41d1-92a0-b9976a8ca99d",
+      "0c22cd4a-caac-4777-beb3-61e3fd0ae23e",
+      "0d8df89a-c74b-4a82-802b-1f8160371d95",
+      "0e8d2ca3-dc9a-445f-9ef3-8c1dfad0d2bc",
+      "0f617cc4-6649-439d-8703-b081fc4074f9",
+      "108428c1-4376-492f-9b20-72467a462f73"
+    ],
+    "sumber_chunk": [
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf",
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md",
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md",
+      "wawancara pakar.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf": 116,
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md": 98,
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md": 20,
+      "wawancara pakar.md": 2
+    }
+  },
+  {
+    "soal": "39",
+    "entitas": "Bukhari (umum)",
+    "varian": [
+      "bukhari"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 284,
+    "n_kemunculan_chunk": 340,
+    "chunk_ids": [
+      "0027e3f7-4df9-4325-a071-2b09757b91d0",
+      "00a0ffe0-512d-4a6d-bd9f-fa8731f2a7b2",
+      "0143e5f8-c388-4fac-bc2e-24e8c0a67134",
+      "01ddb1fc-6774-41d0-b891-0c39cf351772",
+      "021c473a-8d37-4cc4-bd9d-851d1bb07020",
+      "0392508b-22e6-4fd0-b96a-a7d79f22e9c8",
+      "0424b4ab-411f-42fc-aeac-3e666861d4a9",
+      "06a56d30-f1ef-415f-8fb0-632882a82993",
+      "06b913a3-f27b-4c9d-ae9a-aa118ede1f1f",
+      "086b27a1-212c-44f5-97b1-78f04134d793",
+      "0a68a63f-0561-41d1-92a0-b9976a8ca99d",
+      "0baab908-9576-430e-aee7-d9e6b0acdf2b",
+      "0c22cd4a-caac-4777-beb3-61e3fd0ae23e",
+      "0d8df89a-c74b-4a82-802b-1f8160371d95",
+      "0e8d2ca3-dc9a-445f-9ef3-8c1dfad0d2bc"
+    ],
+    "sumber_chunk": [
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf",
+      "02 Panduan Lengkap Haji & Umroh Syaikh Imam Nawawi.md",
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md",
+      "04 Panduan Praktis Haji, Umrah, dan Ziarah Berdasarkan Al-Qur_an dan Sunnah.md",
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md",
+      "wawancara pakar.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf": 113,
+      "02 Panduan Lengkap Haji & Umroh Syaikh Imam Nawawi.md": 2,
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md": 116,
+      "04 Panduan Praktis Haji, Umrah, dan Ziarah Berdasarkan Al-Qur_an dan Sunnah.md": 21,
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md": 31,
+      "wawancara pakar.md": 11
+    }
+  },
+  {
+    "soal": "66",
+    "entitas": "Dam Ihshar",
+    "varian": [
+      "dam ihshar",
+      "dam ichshor",
+      "dam ihsar",
+      "dam ikhshar"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 1,
+    "n_kemunculan_chunk": 1,
+    "chunk_ids": [
+      "b3302a08-cb7b-421d-8cad-ec9df4023f71"
+    ],
+    "sumber_chunk": [
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf": 1
+    }
+  },
+  {
+    "soal": "66",
+    "entitas": "ihshar (umum)",
+    "varian": [
+      "ihshar",
+      "ihsar",
+      "ichshor",
+      "muhshar",
+      "ikhshar"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 13,
+    "n_kemunculan_chunk": 18,
+    "chunk_ids": [
+      "0949b596-6539-4977-bc98-6c5110487298",
+      "2ddf0c42-dd13-4a94-ad15-60f6caca56a9",
+      "35d0e5ac-7aaa-41e0-be6a-e8c6fcd54192",
+      "38197a62-33a2-4fce-ad0b-53fb68f22999",
+      "47f4ca80-ee30-44ac-bec2-ec98dcaf8e7c",
+      "4ba2529c-9e3c-4ccd-a026-218e66482f09",
+      "6d1fac19-8990-44ba-b2a7-4ab203823692",
+      "a598f5b6-c8cc-49d4-abc3-a59dd5f62236",
+      "b3302a08-cb7b-421d-8cad-ec9df4023f71",
+      "c49666d7-bc87-41ed-9bc7-a169ac1b5b71",
+      "d87e19f1-e4ca-4d1f-a5e6-e24b09e5ddb2",
+      "dcb11745-3c36-43fb-ac2d-a82b403f0c23",
+      "f1e3f91b-f33b-4051-9d34-ee0ee291c616"
+    ],
+    "sumber_chunk": [
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf",
+      "02 Panduan Lengkap Haji & Umroh Syaikh Imam Nawawi.md",
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf": 3,
+      "02 Panduan Lengkap Haji & Umroh Syaikh Imam Nawawi.md": 3,
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md": 10
+    }
+  },
+  {
+    "soal": "83",
+    "entitas": "Ka'ab bin Ujrah",
+    "varian": [
+      "kaab bin ujrah",
+      "kab bin ujrah",
+      "kaab ibn ujrah",
+      "ka ab bin ujrah"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 6,
+    "n_kemunculan_chunk": 7,
+    "chunk_ids": [
+      "1d505fde-446e-4c8b-a363-8fdcff123819",
+      "33b5bb84-82ff-4340-95b6-210769c9ba77",
+      "5ed4dbee-de09-434e-af61-d8cf3a904ee2",
+      "75ae8007-8c46-49fe-88f1-a8e9fd6de745",
+      "762bc9a9-1dd4-4528-907b-f9da317cc8e7",
+      "cf215834-7aea-47fb-8e91-0ae590c5fc95"
+    ],
+    "sumber_chunk": [
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md": 6
+    }
+  },
+  {
+    "soal": "83",
+    "entitas": "Ujrah (umum)",
+    "varian": [
+      "ujrah"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 6,
+    "n_kemunculan_chunk": 7,
+    "chunk_ids": [
+      "1d505fde-446e-4c8b-a363-8fdcff123819",
+      "33b5bb84-82ff-4340-95b6-210769c9ba77",
+      "5ed4dbee-de09-434e-af61-d8cf3a904ee2",
+      "75ae8007-8c46-49fe-88f1-a8e9fd6de745",
+      "762bc9a9-1dd4-4528-907b-f9da317cc8e7",
+      "cf215834-7aea-47fb-8e91-0ae590c5fc95"
+    ],
+    "sumber_chunk": [
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md": 6
+    }
+  },
+  {
+    "soal": "85",
+    "entitas": "Ramadan",
+    "varian": [
+      "ramadan",
+      "ramadhan"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 20,
+    "n_kemunculan_chunk": 20,
+    "chunk_ids": [
+      "0ea85d77-7fd0-44f3-9f64-78bc2c5205b9",
+      "2e22cc26-6e7b-4ead-b844-fa053313dba1",
+      "31bbaf82-a5cf-4480-8679-224a9e1c26bb",
+      "34faaa22-c60a-4a91-aecb-95975ee0d4d9",
+      "38197a62-33a2-4fce-ad0b-53fb68f22999",
+      "57cea1b9-0869-4eef-87f3-053eab0e5348",
+      "58d3fcce-bbee-452e-94ba-0d2b8315e3d3",
+      "59398bfc-e2d2-4f69-9909-5efc98651514",
+      "5f5f3e07-9f2e-4666-86ca-75a324e31c12",
+      "695d3e88-c6c3-4e02-bd63-87df186616ca",
+      "76504fd7-8394-4563-a993-5c494649702e",
+      "7f30f61e-fb4d-4b01-9930-9f845ecf53b6",
+      "81d793bd-cafd-46bf-8774-a7743381e2a5",
+      "a2334d19-b6d1-4e0e-a9c2-ed25479b597d",
+      "a62ceea1-6d74-4689-9428-218df9ff0670"
+    ],
+    "sumber_chunk": [
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf",
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md",
+      "04 Panduan Praktis Haji, Umrah, dan Ziarah Berdasarkan Al-Qur_an dan Sunnah.md",
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "01 Al Majmu’ Syarah Al Muhadzdzab 08.pdf": 5,
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md": 10,
+      "04 Panduan Praktis Haji, Umrah, dan Ziarah Berdasarkan Al-Qur_an dan Sunnah.md": 2,
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md": 1
+    }
+  },
+  {
+    "soal": "90",
+    "entitas": "Duba'ah",
+    "varian": [
+      "dubaah",
+      "dhubaah",
+      "dhuba ah",
+      "dubaah binti zubair"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 1,
+    "n_kemunculan_chunk": 1,
+    "chunk_ids": [
+      "4873aab7-94d3-486a-bebb-35ffc7b6b627"
+    ],
+    "sumber_chunk": [
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md": 1
+    }
+  },
+  {
+    "soal": "128",
+    "entitas": "38.0 °C",
+    "varian": [
+      "38 0 c",
+      "38 c",
+      "38 derajat",
+      "38 0 derajat",
+      "38°c",
+      "38 0°c"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 3,
+    "n_kemunculan_chunk": 3,
+    "chunk_ids": [
+      "14f06efd-092b-4a4f-8f5c-c4c1d4b7543e",
+      "6abac505-7d41-466a-8ac2-01f620df2a24",
+      "921ee9e9-ddaa-4e15-8946-e384e1cb0c0e"
+    ],
+    "sumber_chunk": [
+      "02 Panduan Lengkap Haji & Umroh Syaikh Imam Nawawi.md",
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "02 Panduan Lengkap Haji & Umroh Syaikh Imam Nawawi.md": 1,
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md": 1
+    }
+  },
+  {
+    "soal": "128",
+    "entitas": "heat stroke",
+    "varian": [
+      "heat stroke",
+      "heatstroke",
+      "sengatan panas",
+      "serangan panas"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 3,
+    "n_kemunculan_chunk": 8,
+    "chunk_ids": [
+      "5808fe2b-ed01-4f29-8dba-6f2e70a94814",
+      "9ef6218b-ca9e-4515-b323-1ae098785c87",
+      "9f5f03cf-4554-4e3a-b9de-c74977727b71"
+    ],
+    "sumber_chunk": [
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "06 Buku Tuntunan Manasik Haji Kemenhaj.md": 7
+    }
+  },
+  {
+    "soal": "131",
+    "entitas": "Imam Qurtubi",
+    "varian": [
+      "imam qurtubi",
+      "imam qurthubi",
+      "al qurthubi",
+      "al qurtubi"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 3,
+    "n_kemunculan_chunk": 3,
+    "chunk_ids": [
+      "1db8ca8c-2d5d-4cb3-898f-f66317a245b9",
+      "93326683-e434-4cf8-9c7e-416857fa8f5b",
+      "bf0cc267-b002-45ab-be61-372fd29c29ee"
+    ],
+    "sumber_chunk": [
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md": 3
+    }
+  },
+  {
+    "soal": "131",
+    "entitas": "Qurtubi (umum)",
+    "varian": [
+      "qurtubi",
+      "qurthubi"
+    ],
+    "ada_di_qdrant": true,
+    "n_chunk": 5,
+    "n_kemunculan_chunk": 5,
+    "chunk_ids": [
+      "1db8ca8c-2d5d-4cb3-898f-f66317a245b9",
+      "65994ddc-f4a0-4cc9-9758-6d353895eb55",
+      "93326683-e434-4cf8-9c7e-416857fa8f5b",
+      "a9ceb757-35cf-446b-9126-1e4b770883d4",
+      "bf0cc267-b002-45ab-be61-372fd29c29ee"
+    ],
+    "sumber_chunk": [
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md"
+    ],
+    "ada_di_dataset": true,
+    "kemunculan_per_file": {
+      "03_al-mughnie-tuntunan-manasik-haji-umroh.md": 4
+    }
+  }
+]
